@@ -24,12 +24,12 @@ Spent 13 years deep in BI — building dashboards, data platforms, and analytics
 
 ### 🚀 Featured projects
 
-| Project | What it does |
-|---|---|
-| [**restobot**](https://github.com/smenon2710/restobot) | AI-powered restaurant discovery chatbot — conversational suggestions, live reviews, interactive map (PWA) |
-| [**ai-financial-analyst**](https://github.com/smenon2710/ai-financial-analyst) | Next.js app generating AI-driven stock analysis — buy/sell/hold calls, price trends, news, sector picks |
-| [**customer-support-multi-agent-demo**](https://github.com/smenon2710/customer-support-multi-agent-demo) | Coordinated multi-agent AI automating Tableau customer support — triage, routing, resolution |
-| [**enclave-ai**](https://github.com/smenon2710/enclave-ai) | Browser-native, privacy-first meeting assistant — user-controlled Groq Whisper transcription, local-only history |
+| Project | What it does | Code |
+|---|---|---|
+| [**restobot**](https://restobot.vercel.app) | AI-powered restaurant discovery chatbot — conversational suggestions, live reviews, interactive map (PWA) | [repo](https://github.com/smenon2710/restobot) |
+| [**ai-financial-analyst**](https://ai-financial-analyst-pied.vercel.app) | Next.js app generating AI-driven stock analysis — buy/sell/hold calls, price trends, news, sector picks | [repo](https://github.com/smenon2710/ai-financial-analyst) |
+| [**customer-support-multi-agent-demo**](https://tableau-customer-support-multi-agent.streamlit.app/) | Coordinated multi-agent AI automating Tableau customer support — triage, routing, resolution | [repo](https://github.com/smenon2710/customer-support-multi-agent-demo) |
+| [**enclave-ai**](https://enclave-ai.vercel.app) | Browser-native, privacy-first meeting assistant — user-controlled Groq Whisper transcription, local-only history | [repo](https://github.com/smenon2710/enclave-ai) |
 
 ### 🧰 Tech stack
 
