@@ -2,8 +2,8 @@
 <h3 align="center">Analytics & AI Product Manager · Builder by instinct, product leader by experience</h3>
 
 <p align="center">
-  14 years shipping BI and AI products for Fortune 500 firms — I bridge strategy and engineering,
-  designing roadmaps and writing code from inception through production.
+  13 years building BI and analytics products for Fortune 500 firms, then a deliberate pivot into generative AI —
+  now designing and shipping AI products end-to-end, bridging strategy and engineering from roadmap to production code.
 </p>
 
 <p align="center">
@@ -14,10 +14,12 @@
 
 ---
 
-### 🛠️ What I build
+### 🛠️ My path
+
+Spent 13 years deep in BI — building dashboards, data platforms, and analytics products that Fortune 500 teams relied on to make decisions. When generative AI hit an inflection point, I made a deliberate pivot: went hands-on with LLMs, learned to build with them, and moved from *analyzing* data to *building products powered by it*. Today that shows up as:
 
 - **AI products** — multi-agent systems, RAG pipelines, and LLM-powered tools that go from prototype to production
-- **BI & analytics** — dashboards and data platforms that turn raw data into decisions
+- **BI & analytics** — the foundation: dashboards and data platforms that turn raw data into decisions
 - **Full-stack apps** — shipping the roadmap *and* the code, not just the spec
 
 ### 🚀 Featured projects
