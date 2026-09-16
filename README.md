@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sujithkumar Menon</h1>
+<h1 align="center">Hi, I'm Sujithkumar Menon 👋</h1>
 <h3 align="center">Analytics & AI Product Manager · Builder by instinct, product leader by experience</h3>
 
 <p align="center">
@@ -61,8 +61,8 @@ Spent 13 years deep in BI — building dashboards, data platforms, and analytics
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=smenon2710&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smenon2710&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=smenon2710&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=smenon2710&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
