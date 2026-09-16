@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sujithkumar Menon 👋</h1>
+<h1 align="center">Hi, I'm Sujithkumar Menon</h1>
 <h3 align="center">Analytics & AI Product Manager · Builder by instinct, product leader by experience</h3>
 
 <p align="center">
