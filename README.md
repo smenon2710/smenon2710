@@ -2,7 +2,7 @@
 <h3 align="center">Analytics & AI Product Manager · Builder by instinct, product leader by experience</h3>
 
 <p align="center">
-  13 years building BI and analytics products for Fortune 500 firms, then a deliberate pivot into generative AI —
+  15 years building BI and analytics products for Fortune 500 firms, then a deliberate pivot into generative AI —
   now designing and shipping AI products end-to-end, bridging strategy and engineering from roadmap to production code.
 </p>
 
