@@ -16,7 +16,7 @@
 
 ### 🛠️ My path
 
-Spent 13 years deep in BI — building dashboards, data platforms, and analytics products that Fortune 500 teams relied on to make decisions. When generative AI hit an inflection point, I made a deliberate pivot: went hands-on with LLMs, learned to build with them, and moved from *analyzing* data to *building products powered by it*. Today that shows up as:
+Spent 15 years deep in BI — building dashboards, data platforms, and analytics products that Fortune 500 teams relied on to make decisions. When generative AI hit an inflection point, I made a deliberate pivot: went hands-on with LLMs, learned to build with them, and moved from *analyzing* data to *building products powered by it*. Today that shows up as:
 
 - **AI products** — multi-agent systems, RAG pipelines, and LLM-powered tools that go from prototype to production
 - **BI & analytics** — the foundation: dashboards and data platforms that turn raw data into decisions
